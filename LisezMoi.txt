@@ -1,0 +1,4 @@
+# latsi
+dune build
+dune exec src/main.
+dune exec src/main.exe < test
