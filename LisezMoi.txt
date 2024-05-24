@@ -1,4 +1,6 @@
 # latsi
 dune build
-dune exec src/main.
-dune exec src/main.exe < test
+dune exec src/main.exe
+dune exec src/main.exe test
+
+dune exec src/main.exe tests/assign.ls
